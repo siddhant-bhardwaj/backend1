@@ -15,7 +15,7 @@
 	"description": "This is my begineer backend journey",
 	"keywords": ["freecodecamp", "informative", "beginner-friendly"],
 	"author": "Siddhant",
-	"license": "ISC",
+	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
 	},
